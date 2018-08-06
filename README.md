@@ -2,4 +2,4 @@
 # hello-world
 "To attain knowledge, add things everyday"
 
-The first repository. Supposed to write something here. This is that something.
+The first repository. Supposed to write something here.
